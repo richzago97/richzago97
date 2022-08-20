@@ -1,4 +1,7 @@
-### Hi there 👋
+### Olá!
+
+##
+[![Gmail Badge](https://img.shields.io/badge/-rich.czago@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rich.czago@gmail.com)](mailto:rich.czago@gmail.com)
 
 <div align="center">
   <a href="https://github.com/richzago97">
