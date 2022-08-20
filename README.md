@@ -1,4 +1,4 @@
-### Olá!
+### Olá, me chamo Richard Zago, desenvolvedor front-end, atualmente cursando full stack developer da kenzie academy brasil, um amante da tecnologia!
 
 ##
 [![Gmail Badge](https://img.shields.io/badge/-rich.czago@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rich.czago@gmail.com)](mailto:rich.czago@gmail.com)
