@@ -1,4 +1,4 @@
-### Olá!! me chamo Richard Zago, sou desenvolvedor front-end, atualmente cursando full stack developer da kenzie academy brasil. E um amante da tecnologia!
+### Olá!! me chamo Richard Zago, sou desenvolvedor full-stack formado pela Kenzie Academy Brasil.
 
 ##
 [![Gmail Badge](https://img.shields.io/badge/-rich.czago@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rich.czago@gmail.com)](mailto:rich.czago@gmail.com)
@@ -15,6 +15,9 @@
   <img align="center" alt="Richard-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Richard-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Richard-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Richard-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Richard-Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg">
+  
 </div>
 
 ##
