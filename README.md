@@ -4,9 +4,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-rich.czago@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rich.czago@gmail.com)](mailto:rich.czago@gmail.com)
 
 
-// <div align="center">
-// <a href="https://github.com/richzago97">
-// <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richzago97&layout=compact&langs_count=7&theme=dracula"/>
 
 </div>
 <div style="display: inline_block"><br>
