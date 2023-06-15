@@ -2,7 +2,7 @@
 
 Sou um desenvolvedor full-stack formado pela Kenzie Academy Brasil. Tenho experiência em várias tecnologias e ferramentas web, incluindo HTML, CSS, JavaScript, TypeScript, React.js, Node.js, Express.js, Python, Django, PHP, PostgreSQL, SQLite3, MongoDB e MySQL. Durante meus estudos na Kenzie e em projetos pessoais, criei uma variedade de projetos interessantes que demonstram minhas habilidades e paixão pela programação.
 
-
+-  **Meu Linkedin:**  ⤵️
 <div style="display:flex;justify-content:center"> 
   <a href="https://www.linkedin.com/in/richzago97/" target="_blank">
     <img src="https://user-images.githubusercontent.com/91760679/236350719-96ec8437-60c3-4128-8d6b-04e111de9979.png" target="_blank" width="45px" height="45px">
