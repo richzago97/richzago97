@@ -48,8 +48,9 @@ Sou um desenvolvedor full-stack formado pela Kenzie Academy Brasil. Tenho experi
 
   <a href="https://github.com/richzago97">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richzago97&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
 ##
-<div>
+    
  ![Snake animation](https://github.com/richzago97/richzago97/blob/output/github-contribution-grid-snake.svg)
- </div>
+ 
