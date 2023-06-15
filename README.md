@@ -33,8 +33,8 @@ Sou um desenvolvedor full-stack formado pela Kenzie Academy Brasil. Tenho experi
   <h2> &#x1f4c8; GitHub Stats </h2>
 
   <a href="https://github.com/richzago97">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilopreti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilopreti&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=richzago97&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richzago97&layout=compact&langs_count=7&theme=tokyonight"/>
 
 ##
 <div>
