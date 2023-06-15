@@ -61,8 +61,8 @@ Sou um desenvolvedor full-stack formado pela Kenzie Academy Brasil. Tenho experi
       src="https://camo.githubusercontent.com/3ad8ca7ba04bd6e1fd9c64a8f2f44d2ad472d311d0322c5df557ebfca382e034/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d696e736f6d6e69612d3430303042463f6c6f676f3d696e736f6d6e6961266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765"
    />
    <img
-      alt="Figma"
-      src="https://camo.githubusercontent.com/2f1c06a912c2a8d9d1a667ea0c0e74b5214f698870fc62d0178757a74d0b0f2c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6669676d612d4632344531453f6c6f676f3d6669676d61266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765"
+      alt="Trello"
+      src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"
    />
    <img
       alt="Notion"
