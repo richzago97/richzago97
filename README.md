@@ -1,5 +1,9 @@
 ### Olá!! me chamo Richard Zago, sou desenvolvedor full-stack formado pela Kenzie Academy Brasil.
 
+ <div align="center">
+ <a href="https://github.com/richzago97">
+ <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richzago97&layout=compact&langs_count=7&theme=dracula"/>
+
 ##
 [![Gmail Badge](https://img.shields.io/badge/-rich.czago@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rich.czago@gmail.com)](mailto:rich.czago@gmail.com)
 
