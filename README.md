@@ -9,23 +9,37 @@ Sou um desenvolvedor full-stack formado pela Kenzie Academy Brasil. Tenho experi
 
 
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Richard-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-   <img align="center" alt="Richard-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Richard-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Richard-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Richard-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Richard-Node-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Richard-Express-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg">
-  <img align="center" alt="Richard-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Richard-Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
-  <img align="center" alt="Richard-PHP-8" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
-  <img align="center" alt="Richard-Sqlite" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg">
-  <img align="center" alt="Richard-PostgreSql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Richard-MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Richard-MongoDB" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg">
-  <img align="center" alt="Richard-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
- 
+
+<div align="center">
+  <h2> 🔧 Technologies & Tools </h2>
+  
+  <img src="https://img.shields.io/badge/-git-F05032?logo=git&logoColor=white&style=for-the-badge" />	
+  <img src="https://img.shields.io/badge/-html-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-css-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-javascript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-reactjs-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
+  <img src="https://img.shields.io/badge/-styled components-DB7093?logo=styled-components&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-typescrypt-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-nodejs-339933?logo=node.js&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-express-000000?logo=express&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-jwt-000000?logo=JSON Web Tokens&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-typeorm-FE0902?logo=typescript&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-jest-C21325?logo=jest&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-django-092E20?logo=django&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/-postgresql-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/-docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-heroku-430098?logo=heroku&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-yarn-2C8EBB?logo=yarn&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black" />
+  
 </div>
 
 
@@ -33,7 +47,6 @@ Sou um desenvolvedor full-stack formado pela Kenzie Academy Brasil. Tenho experi
   <h2> &#x1f4c8; GitHub Stats </h2>
 
   <a href="https://github.com/richzago97">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=richzago97&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richzago97&layout=compact&langs_count=7&theme=tokyonight"/>
 
 ##
