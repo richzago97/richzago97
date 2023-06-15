@@ -26,8 +26,15 @@ Sou um desenvolvedor full-stack formado pela Kenzie Academy Brasil. Tenho experi
   <img align="center" alt="Richard-MongoDB" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg">
   <img align="center" alt="Richard-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
  
-  
 </div>
+
+
+<div align="center">
+  <h2> &#x1f4c8; GitHub Stats </h2>
+
+  <a href="https://github.com/guilopreti">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilopreti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilopreti&layout=compact&langs_count=7&theme=tokyonight"/>
 
 ##
 <div>
