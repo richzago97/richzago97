@@ -62,7 +62,7 @@ Sou um desenvolvedor full-stack formado pela Kenzie Academy Brasil. Tenho experi
    />
    <img
       alt="Insomnia"
-      src="https://camo.githubusercontent.com/3ad8ca7ba04bd6e1fd9c64a8f2f44d2ad472d311d0322c5df557ebfca382e034/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d696e736f6d6e69612d3430303042463f6c6f676f3d696e736f6d6e6961266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765"
+      src="https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=white&style=for-the-badge"
    />
    <img
       alt="Trello"
@@ -70,11 +70,11 @@ Sou um desenvolvedor full-stack formado pela Kenzie Academy Brasil. Tenho experi
    />
    <img
       alt="Notion"
-      src="https://camo.githubusercontent.com/d124d86aeedeef140a19362238e8b7d07ca0cff2ce578cb493a2309218fdd511/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6e6f74696f6e2d3030303030303f6c6f676f3d6e6f74696f6e266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765"
+      src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"
    />
    <img
       alt="Jira"
-      src="https://camo.githubusercontent.com/ff35318b1a32a5bfd25744570f216e3150ec1b918b3767e1c1b8879736d97921/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6972612d3030353243433f6c6f676f3d4a697261266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765"
+      <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Jira</title><path d="M11.571 11.513H0a5.218 5.218 0 0 0 5.232 5.215h2.13v2.057A5.215 5.215 0 0 0 12.575 24V12.518a1.005 1.005 0 0 0-1.005-1.005zm5.723-5.756H5.736a5.215 5.215 0 0 0 5.215 5.214h2.129v2.058a5.218 5.218 0 0 0 5.215 5.214V6.758a1.001 1.001 0 0 0-1.001-1.001zM23.013 0H11.455a5.215 5.215 0 0 0 5.215 5.215h2.129v2.057A5.215 5.215 0 0 0 24 12.483V1.005A1.001 1.001 0 0 0 23.013 0Z"/></svg>
    />
 </div>
 
