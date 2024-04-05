@@ -75,6 +75,7 @@ Sou um desenvolvedor full-stack formado pela Kenzie Academy Brasil. Tenho experi
    <img
       alt="Jira"
       src="https://iconduck.com/icons/240313/jira"
+  />
 </div>
 
 
