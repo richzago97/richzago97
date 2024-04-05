@@ -72,10 +72,6 @@ Sou um desenvolvedor full-stack formado pela Kenzie Academy Brasil. Tenho experi
       alt="Notion"
       src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"
    />
-   <img
-      alt="Jira"
-      src="https://iconduck.com/icons/240313/jira"
-  />
 </div>
 
 
