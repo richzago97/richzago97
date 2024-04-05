@@ -58,7 +58,7 @@ Sou um desenvolvedor full-stack formado pela Kenzie Academy Brasil. Tenho experi
    />
    <img
       alt="VsCode"
-      src="https://camo.githubusercontent.com/3f8d55caabf146d3a53fb125d79f78d40f34baa67126c221f4615e346b0a0103/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d7673636f64652d3030374143433f6c6f676f3d56697375616c2053747564696f20436f6465266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765"
+      src="https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"
    />
    <img
       alt="Insomnia"
