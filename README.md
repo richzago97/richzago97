@@ -8,6 +8,7 @@ Sou um desenvolvedor full-stack formado pela Kenzie Academy Brasil. Tenho experi
     <img src="https://user-images.githubusercontent.com/91760679/236350719-96ec8437-60c3-4128-8d6b-04e111de9979.png" target="_blank" width="45px" height="45px">
   </a>
 
+
   - **Portfolio:**
  https://richard-portfolio-ksrl3hhte-richzago97s-projects.vercel.app/contact
 
