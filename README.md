@@ -10,7 +10,7 @@ Sou um desenvolvedor full-stack formado pela Kenzie Academy Brasil. Tenho experi
 
 
   - **Portfolio:**
- https://richard-portfolio-ksrl3hhte-richzago97s-projects.vercel.app/contact
+ [https://richard-portfolio-ksrl3hhte-richzago97s-projects.vercel.app/contact](https://richard-portfolio-ksrl3hhte-richzago97s-projects.vercel.app/)
 
 
 </div>
